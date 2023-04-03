@@ -5,4 +5,4 @@
 - Code generates a database
 - Then applies the Apriori algorithm to find frequent itemsets
 - Next steps involve improving the algorithm
-- Implementing idea1 today
+- Implemented Idea1, little more tweaking required
