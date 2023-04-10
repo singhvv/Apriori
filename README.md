@@ -4,5 +4,6 @@
 - Used Jupyter Notebook for implementation
 - Code generates a database
 - Then applies the Apriori algorithm to find frequent itemsets
-- Completed the project, will add files tomorrow, I'm tired
 - Next steps involve improving the algorithm
+- Added executables folder, code got messy because of last minute changes
+- Read readme before running
